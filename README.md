@@ -115,5 +115,3 @@ Run `to_strudel.py -h` for all options.
 - Drums are mapped from General MIDI to `bd sd hh oh cp rim lt mt ht cr rd` in the TR-909 bank.
 - The sounds (`sawtooth`, `triangle` ...) are placeholders. Notes and rhythm are what is tested.
 - Vocal samples play at their original tempo. If you change `setcps`, they no longer line up.
-# Audio2strudel
-Audio converted from mp3 to Javascript tha can be run in strudel.cc 
